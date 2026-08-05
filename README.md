@@ -93,7 +93,7 @@ A real-time full-stack chat application featuring secure authentication, instant
 
 I'm always interested in collaborating on AI, backend, and full-stack projects.
 
-* Website: *https://dagmyibabeportfolio.vercel.app/*
+* Website: *https://www.dagmyibabe.me/*
 * LinkedIn: *www.linkedin.com/in/dagmyibabe*
 * Email: *dagmyibabe19@gmail.com*
 

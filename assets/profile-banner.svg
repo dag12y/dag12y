@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Dagm Yibabe, backend engineering and artificial intelligence">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1225"/><stop offset="1" stop-color="#101e38"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#36d1dc"/><stop offset="1" stop-color="#668cff"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#223654" stroke-width="1" opacity=".42"/></pattern></defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#grid)"/><rect x="44" y="44" width="5" height="232" rx="2.5" fill="url(#accent)"/>
+<text x="76" y="84" fill="#5ad7e9" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" letter-spacing="3">SOFTWARE  /  SYSTEMS  /  AI</text>
+<text x="74" y="157" fill="#f2f6ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="58" font-weight="700">Dagm Yibabe</text>
+<text x="77" y="203" fill="#b8c9e5" font-family="DejaVu Sans,Arial,sans-serif" font-size="24">Backend engineering · Developer tools · Intelligent systems</text>
+<text x="77" y="254" fill="#7f9bbd" font-family="DejaVu Sans,Arial,sans-serif" font-size="17">BUILDING USEFUL SOFTWARE, ONE SYSTEM AT A TIME.</text>
+<g transform="translate(945 75)" fill="none" stroke="#3e9fca" stroke-width="2" opacity=".7"><rect x="0" y="0" width="174" height="174" rx="24"/><path d="M22 50h130M22 88h130M22 126h130M50 22v130M88 22v130M126 22v130" opacity=".35"/><circle cx="50" cy="50" r="10" fill="#36d1dc" stroke="none"/><circle cx="126" cy="88" r="10" fill="#668cff" stroke="none"/><circle cx="88" cy="126" r="10" fill="#36d1dc" stroke="none"/><path d="M50 50l76 38-38 38" stroke="#8bddec" stroke-width="3"/></g>
+</svg>

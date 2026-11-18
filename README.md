@@ -1,101 +1,67 @@
-# Hi 👋, I'm Dagm Yibabe
+<div align="center">
 
-### AI Developer • Backend Engineer • Full-Stack Developer
+<img src="./assets/profile-banner.svg" alt="Dagm Yibabe — Backend engineering, developer tools and intelligent systems" width="100%" />
 
-I'm passionate about building intelligent software that solves real-world problems. My interests include Artificial Intelligence, Natural Language Processing, backend engineering, and scalable web applications.
+<br />
 
-Currently, I'm focused on building AI-powered applications, experimenting with LLMs, and developing production-ready software.
+**Backend-focused developer · AI/ML explorer · Electrical & Computer Engineering student**
 
----
+Based in Ethiopia · Addis Ababa University · AI intern at iCog Labs
 
-## 🚀 Current Focus
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111D33?style=for-the-badge&logo=vercel&logoColor=60D7E9)](https://www.dagmyibabe.me/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111D33?style=for-the-badge&logo=linkedin&logoColor=60D7E9)](https://www.linkedin.com/in/dagmyibabe/)
+[![Email](https://img.shields.io/badge/EMAIL-111D33?style=for-the-badge&logo=gmail&logoColor=60D7E9)](mailto:dagmyibabe19@gmail.com)
 
-* 🤖 AI Agents
-* 🧠 Large Language Models (LLMs)
-* 📖 Natural Language Processing (NLP)
-* ⚡ Backend Development
-* 🌐 Full-Stack Web Applications
+</div>
 
----
+### `01` / About
 
-## 🛠 Tech Stack
+I build **backend systems, developer tools, and AI-powered applications**. I enjoy designing APIs, working with databases, and understanding the systems beneath the interface—from secure execution environments to machine learning experiments.
 
-### Languages
+- **Currently building:** developer tooling and practical AI systems
+- **Exploring:** neuro-symbolic AI, agent architectures, and system design
+- **Engineering interests:** reliability, security, performance, and clean architecture
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+### `02` / Toolkit
 
-### Backend
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-1C2C47?style=flat-square&logo=typescript&logoColor=70B7FF) ![Python](https://img.shields.io/badge/Python-1C2C47?style=flat-square&logo=python&logoColor=70B7FF) ![Go](https://img.shields.io/badge/Go-1C2C47?style=flat-square&logo=go&logoColor=70D9ED) ![JavaScript](https://img.shields.io/badge/JavaScript-1C2C47?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-1C2C47?style=flat-square&logo=openjdk&logoColor=E8EDF6) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-1C2C47?style=flat-square&logo=nodedotjs&logoColor=8AD48B) ![Express](https://img.shields.io/badge/Express-1C2C47?style=flat-square&logo=express&logoColor=E8EDF6) ![FastAPI](https://img.shields.io/badge/FastAPI-1C2C47?style=flat-square&logo=fastapi&logoColor=55D8BE) ![Django](https://img.shields.io/badge/Django-1C2C47?style=flat-square&logo=django&logoColor=55D8BE) |
+| **Data & infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2C47?style=flat-square&logo=postgresql&logoColor=83B9EF) ![MongoDB](https://img.shields.io/badge/MongoDB-1C2C47?style=flat-square&logo=mongodb&logoColor=81D18B) ![Redis](https://img.shields.io/badge/Redis-1C2C47?style=flat-square&logo=redis&logoColor=F28C88) ![Docker](https://img.shields.io/badge/Docker-1C2C47?style=flat-square&logo=docker&logoColor=76C7F4) |
+| **Web & ML** | ![React](https://img.shields.io/badge/React-1C2C47?style=flat-square&logo=react&logoColor=6DD5EF) ![Next.js](https://img.shields.io/badge/Next.js-1C2C47?style=flat-square&logo=nextdotjs&logoColor=E8EDF6) ![PyTorch](https://img.shields.io/badge/PyTorch-1C2C47?style=flat-square&logo=pytorch&logoColor=F49A7D) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1C2C47?style=flat-square&logo=scikitlearn&logoColor=F3B46E) |
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+### `03` / Selected work
 
-### Frontend
+| Project | Engineering focus | Built with |
+| :--- | :--- | :--- |
+| **[SafeRun](https://github.com/dag12y/saferun)** | Sandboxed npm installation and package risk analysis | Go · Docker |
+| **[DevPulse](https://github.com/dag12y/DevPulse)** | Developer activity tracking and analytics | Go · Next.js |
+| **[EthioNLP](https://github.com/dag12y/ethionlp)** | Ethiopian-language text processing and transliteration | Python · FastAPI |
+| **[ChessEvolve](https://github.com/dag12y/chessEvolve)** | Chess AI training and experimentation | Python · ML |
+| **[Grover Deployment Solver](https://github.com/dag12y/grover-deployment-solver)** | Quantum search for deployment configuration constraints | Python · Qiskit |
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+> My projects range from practical backend tooling to experimental AI. I value working implementations, clear documentation, and understanding the tradeoffs behind each design.
 
-### Databases
+### `04` / GitHub activity
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
+<div align="center">
 
-### AI & Machine Learning
+<img src="https://github-readme-stats.vercel.app/api?username=dag12y&show_icons=true&hide_border=true&bg_color=0D1526&title_color=60D7E9&text_color=C4D1E7&icon_color=7D9FFF&rank_icon=github" alt="GitHub activity statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dag12y&layout=compact&hide_border=true&bg_color=0D1526&title_color=60D7E9&text_color=C4D1E7&langs_count=6" alt="Languages across public repositories" height="165" />
 
-* AI Agents
-* Hugging Face
-* Transformers
-* Natural Language Processing
-* Prompt Engineering
-* Stable Diffusion
+<sub>Language percentages describe public repository code, not personal proficiency. Third-party stats cards may occasionally be unavailable.</sub>
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+<div align="center">
 
-### 🧠 EthioNLP
+**Interested in building something together?**
 
-An NLP toolkit for Ethiopian languages featuring tokenization, transliteration, and AI-powered language processing.
+I'm open to collaborating on backend infrastructure, developer tools, and AI projects.
 
----
+[Portfolio](https://www.dagmyibabe.me/) · [LinkedIn](https://www.linkedin.com/in/dagmyibabe/) · [Email](mailto:dagmyibabe19@gmail.com)
 
-### 🤖 AI Agent
-
-A tool-using AI agent capable of reasoning, selecting tools, and completing real-world tasks.
-
----
-
-### 💬 Chat Application
-A real-time full-stack chat application featuring secure authentication, instant messaging, user presence, and a modern responsive interface. Built with React, Node.js, Express, MongoDB, and WebSockets.
-
----
-
-## 📖 Currently Learning
-
-* Multi-Agent Systems
-* RAG (Retrieval-Augmented Generation)
-* MCP (Model Context Protocol)
-* Agentic AI
-* Vector Databases
-* Cloud Deployment
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on AI, backend, and full-stack projects.
-
-* Website: *https://www.dagmyibabe.me/*
-* LinkedIn: *www.linkedin.com/in/dagmyibabe*
-* Email: *dagmyibabe19@gmail.com*
-
----
-
+</div>
